@@ -33,5 +33,5 @@ links:
 
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=ShrikeBin" alt="watching_count" />
+  <img src="https://komarev.com/ghpvc/?username=ShrikeBin&color=grey" alt="watching_count" />
 </div>
