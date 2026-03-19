@@ -11,25 +11,27 @@ Currently looking for my first internship — somewhere I can actually get into 
 ---
 
 Been to 🇩🇰 on exchange,
-worked in 🇨🇭,
-turns out I'm decent at figuring things out in new places.
+worked in 🇨🇭...
+
+Turns out I'm decent at figuring things out in new places.
 
 ---
 
 languages I actually use:
+
 `C++` · `Java` · `Python` , rarer: `C` · `R`
 
 ---
 
-See pinned projects!
-
----
-
-## links
+links:
 - 📄 [CV](https://github.com/ShrikeBin/Certificates/blob/main/CV.pdf)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jan-ryszkiewicz-aa7aa6262/)
 
+---
 
-<div align="center">
+See pinned projects below! ⬇️
+
+
+<div align="right">
   <img src="https://komarev.com/ghpvc/?username=ShrikeBin" alt="watching_count" />
 </div>
