@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm Jan 🐢
 
-<!--
-**ShrikeBin/ShrikeBin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd year CS student. Curious about a lot of things — maybe too many.
 
-Here are some ideas to get you started:
+I've built stuff with **C, C++, Java, and Python** — from Unix shells and audio visualizers to board games and NLP classifiers.
+I like understanding how things work under the hood, and I'm slowly getting drawn toward the human side of tech: **UX/UI, engagement design, and how people actually interact with products**.
+I want to dive deep into engagement psychology as behavioral systems are a genuine interest of mine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently looking for my first internship — somewhere I can actually get into the messy, human parts of tech work.
+
+---
+
+Been to 🇩🇰 on exchange,
+worked in 🇨🇭,
+turns out I'm decent at figuring things out in new places.
+
+---
+
+languages I actually use:
+`C++` · `Java` · `Python` , rarer: `C` · `R`
+
+---
+
+See pinned projects!
+
+---
+
+## links
+- 📄 [CV](https://github.com/ShrikeBin/Certificates/blob/main/CV.pdf)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jan-ryszkiewicz-aa7aa6262/)
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShrikeBin" alt="watching_count" />
+</div>
