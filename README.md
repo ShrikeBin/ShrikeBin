@@ -6,7 +6,7 @@ I've built stuff with **C, C++, Java, and Python** — from Unix shells and audi
 I like understanding how things work under the hood, and I'm slowly getting drawn toward the human side of tech: **UX/UI, engagement design, and how people actually interact with products**.
 I want to dive deep into engagement psychology as behavioral systems are a genuine interest of mine.
 
-Currently looking for my first internship — somewhere I can actually get into the messy, human parts of tech work.
+Currently an intern at Allianz Quantitative Analytics.
 
 ---
 
